@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\bobfu\OneDrive - Old Dominion University\2025 Spring\ENGN122\Lab3_Bob_Fullick\main.cpp(9,21): error C2065: 'hwnumber': undeclared identifier
+C:\Users\bobfu\OneDrive - Old Dominion University\2025 Spring\ENGN122\Lab3_Bob_Fullick\main.cpp(10,2): error C2144: syntax error: 'int' should be preceded by ';'
+C:\Users\bobfu\OneDrive - Old Dominion University\2025 Spring\ENGN122\Lab3_Bob_Fullick\main.cpp(11,2): error C2143: syntax error: missing ';' before 'if'
+C:\Users\bobfu\OneDrive - Old Dominion University\2025 Spring\ENGN122\Lab3_Bob_Fullick\main.cpp(10,6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\bobfu\OneDrive - Old Dominion University\2025 Spring\ENGN122\Lab3_Bob_Fullick\main.cpp(11,2): error C2059: syntax error: 'if'
+C:\Users\bobfu\OneDrive - Old Dominion University\2025 Spring\ENGN122\Lab3_Bob_Fullick\main.cpp(11,87): error C2143: syntax error: missing ';' before '{'
+C:\Users\bobfu\OneDrive - Old Dominion University\2025 Spring\ENGN122\Lab3_Bob_Fullick\main.cpp(11,87): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\bobfu\OneDrive - Old Dominion University\2025 Spring\ENGN122\Lab3_Bob_Fullick\main.cpp(25,10): error C2064: term does not evaluate to a function taking 1 arguments
