@@ -1,0 +1,26 @@
+# Ignore Visual Studio build files
+*.obj
+*.exe
+*.log
+*.tlog
+*.pch
+*.idb
+*.ipch
+*.aps
+*.ncb
+*.sdf
+*.opensdf
+*.cache
+*.ilk
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+
+# Ignore Debug/Release folders
+Debug/
+Release/
+
+# Ignore other clutter
+*.DS_Store
+Thumbs.db
